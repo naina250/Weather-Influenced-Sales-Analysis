@@ -18,4 +18,3 @@ This is a data analysis project where I explored how **weather conditions affect
 - Coffee and tea sell most on rainy/cloudy days 
 - Hell’s Kitchen store performs the best 
 - Weekdays have higher sales than weekends 
-
