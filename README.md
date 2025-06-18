@@ -1,7 +1,7 @@
 # Weather-Influenced-Sales-Analysis
-This is a data analysis project where I explored how **weather conditions affect sales** at a coffee shop using Python.
+This is a data analysis project where I explored how weather conditions affect sales at a coffee shop using Python libraries.
 
-## What I Did
+## Key Features
 - Combined sales data with weather data
 - Analyzed how temperature and conditions impact sales
 - Found top-performing products and locations
